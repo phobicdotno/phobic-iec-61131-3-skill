@@ -1,0 +1,19 @@
+{
+  "name": "phobic-iec-61131-3-skill",
+  "description": "Claude Code agent plugin: skills for IEC 61131-3 PLC programming. Vendor-agnostic by design -- targets the language standard itself (Structured Text, FB design, type rules, OSCAT, common pitfalls). CODESYS / vendor-specific tooling lives in companion plugins like mr-engineering-skill.",
+  "version": "0.1.0",
+  "author": {
+    "name": "phobic",
+    "email": "phobic.as@gmail.com"
+  },
+  "homepage": "https://github.com/phobicdotno/phobic-iec-61131-3-skill",
+  "repository": "https://github.com/phobicdotno/phobic-iec-61131-3-skill.git",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "iec-61131-3",
+    "plc",
+    "structured-text",
+    "industrial-automation"
+  ]
+}

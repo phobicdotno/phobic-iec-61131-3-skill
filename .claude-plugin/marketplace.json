@@ -1,0 +1,20 @@
+{
+  "name": "phobic-iec-61131-3",
+  "description": "Single-plugin marketplace for phobic-iec-61131-3-skill. Vendor-agnostic IEC 61131-3 PLC programming skills for Claude Code.",
+  "owner": {
+    "name": "phobic",
+    "email": "phobic.as@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "phobic-iec-61131-3-skill",
+      "description": "Claude Code agent plugin: skills for IEC 61131-3 PLC programming. Vendor-agnostic by design -- targets the language standard itself (Structured Text, FB design, type rules, OSCAT, common pitfalls). CODESYS / vendor-specific tooling lives in companion plugins like mr-engineering-skill.",
+      "version": "0.1.0",
+      "source": "./",
+      "author": {
+        "name": "phobic",
+        "email": "phobic.as@gmail.com"
+      }
+    }
+  ]
+}
