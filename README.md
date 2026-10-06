@@ -4,7 +4,7 @@ Claude Code agent plugin for **IEC 61131-3** PLC programming.
 
 This plugin is **vendor-agnostic by design**. It targets the language standard itself — Structured Text patterns, function-block design rules, IEC type behaviour, OSCAT references, common pitfalls — without assuming any specific runtime (CODESYS, TwinCAT, Siemens TIA, B&R, etc.).
 
-**Companion plugin:** vendor-specific tooling for CODESYS V3.5 (driving the IDE through [Codesys-MCP-Master](https://github.com/phobicdotno/Codesys-MCP-Master), one MCP for SP19/SP21/SP22; MR's GitLab credentials, runtime rules) lives in [`mr-engineering-skill`](https://gitlab.usv.no/karstein.kvistad/mr-engineering-skill). Install both side-by-side; they don't overlap.
+**Companion plugin:** vendor-specific tooling for CODESYS V3.5 (driving the IDE through [Codesys-MCP-Master](https://github.com/phobicdotno/Codesys-MCP-Master), one MCP for SP19/SP21/SP22; runtime rules) lives in a separate, private plugin. Install both side-by-side; they don't overlap.
 
 ## Skills in this plugin
 
